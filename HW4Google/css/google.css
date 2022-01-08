@@ -1,0 +1,59 @@
+.content {
+    width: 1107.300px;
+    height: 60px;
+    float: center;
+    background: rgb(231, 223, 223);
+    text-align: center;
+}
+
+.btn {
+    padding: 1px 6px;
+    background: rgb(231, 223, 223);;
+    border-radius: 5px;
+    color: black;
+    border:black;
+    border-width: 2px;
+    border-style: outset;
+}
+
+.card1 {
+    
+    width: 700px;
+    float:left;
+    margin-right: 10px;
+    height: 140px;
+    background-color: rgb(8, 223, 212);        
+}
+.card2 {
+    
+    width: 400px;
+    float:left;
+    margin-right: 10px;
+    height: 140px;
+    background-color: rgb(8, 223, 212);      
+}
+
+
+.card3 {
+    
+    width: 774px;
+    float:left;
+    margin-right: 10px;
+    height: 140px;
+    background-color: rgb(8, 223, 212);        
+}
+p {
+    margin-bottom: 10px;
+    float: center;
+    text-align: center;
+    
+}
+
+    
+    
+
+
+
+
+
+
